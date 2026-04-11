@@ -51,3 +51,6 @@ class RewardCalculator:
     
     return flux_penalty + temp_penalty + effort_penalty + bonus 
 
+
+
+
