@@ -1,4 +1,4 @@
-# Reactor-Core-Control-Optimization
+# REINFORCEMENT LEARNING BASED NUCLEAR REACTOR KINETICS CONTROL
 
 Applying reinforcement learning to automate reactor reactivity control, where an agent learns to insert or withdraw control rods to maintain target neutron flux (power level) within safe temperature and power bounds, modeled using point kinetics equations with delayed neutron groups and temperature feedback.
 
