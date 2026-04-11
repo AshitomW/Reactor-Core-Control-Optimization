@@ -1,5 +1,5 @@
 # Reactor-Core-Control-Optimization
 
-Using reinforcement learning to optimize reactor parameters (control rod positioning, coolant flow, and power output) for improved efficiency and stability under safety constraints.
+Applying reinforcement learning to automate reactor reactivity control, where an agent learns to insert or withdraw control rods to maintain target neutron flux (power level) within safe temperature and power bounds, modeled using point kinetics equations with delayed neutron groups and temperature feedback.
 
 This is mainly an experimental research project. Many aspects of the physics, mathematics, and nuclear modeling here may be incorrect or oversimplified, and improvements in those areas are welcome.
